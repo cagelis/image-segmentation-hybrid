@@ -39,7 +39,7 @@ pip install numpy opencv-python scikit-image matplotlib
 python FinalProject2025.py
 ```
 
-> 📌 The script will use `cherry.jpg` by default. You can replace it with your own image by editing the file path inside the script.
+> The script will use `cherry.jpg` by default. You can replace it with your own image by editing the file path inside the script.
 
 ---
 
@@ -49,19 +49,19 @@ python FinalProject2025.py
 ![cherry](images/cherry.jpg)
 
 ### Example 1 – Segmentation of satellite image
-![example1](images/Screenshot_2025-08-30_at_10.55.11_PM.png)
+![example1](images/segmentation3.png)
 
 ### Example 2 – MRI scan segmentation
-![example2](images/Screenshot_2025-08-30_at_10.55.32_PM.png)
+![example2](images/segmentation2.png)
 
 ### Example 3 – Natural image segmentation
-![example3](images/Screenshot_2025-08-30_at_10.56.16_PM.png)
+![example3](images/segmentation1.png)
 
 ---
 
 
 ---
 
-## 📘 License
+## License
 
 This project was developed for academic purposes only.
