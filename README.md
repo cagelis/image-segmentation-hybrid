@@ -6,7 +6,7 @@ It was developed as a **team project** for the university course *Digital Image 
 
 ---
 
-## 🧠 Description
+## Description
 
 The algorithm works in two main stages:
 
@@ -17,7 +17,7 @@ The combined approach improves segmentation quality and produces smoother, more 
 
 ---
 
-## 📂 Files
+## Files
 
 - `FinalProject2025.py` → Main Python script
 - `cherry.jpg` → Default input image (you can replace this with your own)
@@ -25,7 +25,7 @@ The combined approach improves segmentation quality and produces smoother, more 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure you have Python 3 and install the required packages:
 
@@ -43,7 +43,7 @@ python FinalProject2025.py
 
 ---
 
-## 📷 Example Output
+## Example Output
 
 ### Input Image
 ![cherry](images/cherry.jpg)
@@ -59,12 +59,6 @@ python FinalProject2025.py
 
 ---
 
-## 👥 Team Members
-
-- **Christos Agelis** (cangelis@uth.gr)  
-- Giorgos Kanakis (gekanakis@uth.gr)  
-- Rigas Panagiotopoulos (ripanagiot@uth.gr)  
-- Giannis Patas (iopatas@uth.gr)
 
 ---
 
